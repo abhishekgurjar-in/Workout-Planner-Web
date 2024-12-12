@@ -1,6 +1,6 @@
 
 
-# **Workout Planner**
+# **Workout Planner Website**
 
 A comprehensive MERN stack application designed to help users create and manage their workout plans, track exercises, and monitor progress efficiently.
 
